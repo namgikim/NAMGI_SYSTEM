@@ -7,5 +7,5 @@ console.info('한달만에 커미한다 자이자이자식아');
 
 /* 2024-12-27 / 개발브랜치 테스트  */
 console.info('추가된 내용222');
-
+console.info('추가1');
 </script>
